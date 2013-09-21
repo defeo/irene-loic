@@ -44,7 +44,7 @@ Juste des idées à piocher, pour faire des variations sur [le texte original de
 
 **Cyrano** - Allons, pas d'hésitations. Voici que mes assistants préparent la fusée, prenez place et n'oubliez pas votre casque.
 
-*Des jongleurs préparent la "fusée". Idéalement, un long cylindre, comme cet oreiller [http://i-cdn.apartmenttherapy.com/uimages/la/080109-BodyPillow-05.jpg). Les astronautes l'enjambent.*
+*Des jongleurs préparent la "fusée". Idéalement, un long cylindre, comme [cet oreiller](http://i-cdn.apartmenttherapy.com/uimages/la/080109-BodyPillow-05.jpg). Les astronautes l'enjambent.*
 
 **Cyrano** - Prêts? 3.. 2.. 1..
 
