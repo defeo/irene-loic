@@ -83,3 +83,65 @@
 **Galilée** - En route, Kepler ! 
 
 **Kepler** - Vers l'infini, et au-delà ! (Ils sortent en courant, poursuivis par Simplicius. Puis ils reviennent sur scène.)
+
+[Séquence d'observation astronomique/physique.]
+
+[Les personnages s'envolent dans l'espace. On ne sait pas encore trop comment, mais voir aussi <https://github.com/defeo/irene-loic/blob/master/Variante%20Cyrano%20-%20Verne.md>. En tout cas, ce sera sur Space Oddity.]
+
+**Kepler** - Nous voici sur la Lune, Galilée ! Regardez, voici la Terre !
+
+**Galilée** - Eppur si mouve ! Eppur si muove ! Hahaha ! Et pourtant, elle tourne !
+
+**Kepler** - Qu'est-ce que c'est que cette phrase ?
+
+**Galilée** - C'est ma phrase fétiche. Depuis que je l'ai dite lors de mon procès.
+
+**Kepler** - Arrêtez votre pipeau. Vous n'avez jamais dit ça.
+
+**Galilée** - Eh bien je le ferai mettre sur ma tombe, na.
+
+**Kepler** - Continuons notre voyage.
+
+**Kepler** - Ooooh, les géantes gazeuses ! Admirez leurs anneaux, Galilée !
+
+**Jupiter** - Géant gazeux vous même, espèce de villain.
+
+**Galilée** - ...Ahem... Veuillez excuser mon collègue, Mons... Ma... Madame Jupiter. Ces Allemands ne savent vraiment pas parler aux dames.
+
+**Kepler (*choucotant à Galilée*)** - Galilée, psst, Galilée ! Voyez-vous ? Voici Jupiter, et Saturne. Mais... ? Qui sont les deux autres ?
+
+**Galilée** - Des planètes inconnues ! Je croyais bien en avoir brièvement observé une récemment. Observons, mon bon Kepler, observons !
+
+**Kepler** - Avez-vous lu mon ouvrage sur l'harmonie des mondes ? J'y compare les orbites des planètes à des intervalles de musique. Par exemple, saviez-vous que Saturne, entre son aphélie et son périhélie, correspond, dans mon système de l'harmonie des Mondes, à une tierce majeure, entre le sol et le si ? Elle joue la basse dans l'harmonie des planètes. Quant à Jupiter...
+
+**Galilée** - Kepler, taisez-vous, et regardez.
+
+[Avant le numéro de balles de Jérôme]
+
+[ndL. Ne pourrait ce numéro représenter plutôt les satellites de Jupiter ? Ça ferait une transition smooth: Jérôme n'aurait qu'à entrer en tournant autour de Jupiter.]
+
+**Kepler** - Attention ! Une pluie d'astéroïdes !
+
+**Galilée** - Mettons-nous à l'abri ! (Ils s'abritent sous un parapluie)
+
+[Avant les comètes]
+
+**Kepler** - Journal de bord, jour 1, vers 16h30. Nous poursuivons notre voyage dans le système solaire. Je voudrais bien observer quelques comètes de près.
+
+**Galilée** - Si loin de la Terre, j'en serais fort étonné. J'ai brillamment démontré que les comètes sont des phénomènes météorologiques dus à l'action du Soleil dans la haute atmosphère. Cet imbécile de Grassi prétendait qu'elles sont d'origine céleste et se déplacent sur une orbite !
+
+**Kepler** - Oui, oui, bien sûr. Et que les marées sont dues à la rotation terrestre. Ma foi, sans vouloir vous offenser, je pense que vous vous êtes planté.
+
+**Galilée** - Vous osez remettre en cause mon intelligence supérieure ?
+
+**Kepler** - Non, mais... voici justement des comètes...
+
+[Avant le rock]
+
+**Kepler** - Nous quittons le système solaire ! Nous voici à la dérive vers la Voie Lactée !
+
+[Avant le trou noir]
+
+**Kepler** - Ca alors ! Un phénomène totalement inconnu ! Vite, faisons des équations mathématiques !
+Je me sens étrangement attiré...
+
