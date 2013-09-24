@@ -66,7 +66,7 @@
 
 **Kepler** - Oui. Je ne veux pas finir comme Giordano Bruno.
 
-**Galilée** - Oui. Je ne veux pas qu'on m'apporte des oranges dans les geôles du Vatican.
+**Galilée** - J'abjure, la Terre est fixe et au centre du monde, et tout ça.
 
 **Simplicius l'Inquisiteur** - Ainsi soit-il.
 
