@@ -32,6 +32,8 @@
 
 **Kepler** - Et quant à moi, j'ai énoncé la loi suivante : "Deux corps voisins et hors de la sphère d'attraction d'un troisième corps s'attirent en raison directe de leur masse". Et par ailleurs, toujours concernant les planètes, je vous signale que le carré de la période est proportionnel au cube du demi-grand axe de l'ellipse. Ce n'est pas une preuve, ça ? Hein ?
 
+[Simplicius et Galilée s'échangent des regards d'incompréhension.]
+
 **Simplicius  l'Inquisiteur** -  Certainement  non.  La  vérité  catholique,  et  les  principes d'Aristote...
 
 **Kepler** - Par ailleurs, je ne sais pas si vous l'avez lu, mais j'ai écrit un livre de sciencefiction. C'est l'histoire d'un homme qui va sur la Lune, et...
@@ -68,27 +70,95 @@
 
 **Galilée** - Et pourtant...
 
-**Simplicius l'Inquisiteur** - Ah, non, on ne va pas recommencer ! Le tribunal de la Sainte Inquisition a toujours raison !
+**Simplicius l'Inquisiteur** - Ah, non, on ne va pas recommencer ! Le tribunal de la Sainte Inquisition a toujours raison ! Jurez solennellement sur cette sainte écriture que vous allez abandonner vos observations astronomiques. [tend la bible à Galilée]
 
-**Galilée** - Eh bien moi, j'irai au ciel, et je prouverai que j'ai raison !
+**Galilée [en posant une main sur la bible, les doigts croisés dans le dos]** - Eh bien, je le jure. Venez, mon bon Kepler. Allons dans mon atelier faire des expériences... terrestres.
 
-**Simplicius l'Inquisiteur** - Hérésie ! Hérésie ! Seuls les Justes vont au ciel !
+[Tout le monde quitte la scène. Simplicio (pas l'inquisiteur), s'installe avec ses pendules (yoyos) et commence à les faire osciller.]
 
-**Galilée** - J'irai, vous dis-je ! Je ne sais pas comment, mais j'irai ! 
+[Galilée et Kepler entrent.] 
 
-**Kepler** - Eh bien à ce sujet, j'ai écrit un livre...
+**Galilée** - Vous allez voir, Kepler, mes expériences sur les pendules sont d'un intérêt remarquable... et elles ne risquent pas de nous envoyer au bûcher ! *(en s'adressant à Simplicio)* Mon cher Simplicio. Comment procèdent nos expériences sur la chute des graves.
 
-**Simplicius l'Inquisiteur** - Hérésie ! Hérésie !
+**Simplicio** - Grave, Maître ! Ihih, ihih !
 
-**Galilée** - En route, Kepler ! 
+**Galilée** - Bon sang ! Il est sonné celui-là ! Ne prêtez pas attention, Kepler. Venez, venez, observez ces pendules.
 
-**Kepler** - Vers l'infini, et au-delà ! (Ils sortent en courant, poursuivis par Simplicius. Puis ils reviennent sur scène.)
+[Simplicius fait osciller ses pendules]
 
-[Séquence d'observation astronomique/physique.]
+**Galilée** - Avez vous remarqué comment, lorsque vous laissez tomber le poids, celui-ci, en déclinant, dépassera la perpendiculaire de *peu moins qu'autant* ?
 
-[Les personnages s'envolent dans l'espace. On ne sait pas encore trop comment, mais voir aussi <https://github.com/defeo/irene-loic/blob/master/Variante%20Cyrano%20-%20Verne.md>. En tout cas, ce sera sur Space Oddity.]
+**Kepler** - Maintes fois l'ai-je observé. Et je suis persuadé que si l'on pouvait ôter l'empêchement de l'air, ses oscillations se perpetueraient à l'infini. Quant aux temps d'oscillation de mobiles suspendus à des fils de différentes longueurs, ils ont entre eux la même proportion que les racines carrées des temps ; si bien que pour obtenir un pendule dont le temps d'oscillation soit double de celui d'un autre pendule, il convient de donner au premier une longueur quadruple de celle du second ; de la même manière si un pendule a une longueur neuf fois supérieure à celle d'un autre pendule, celui-ci effectuera trois oscillations pendant que celui-là en accomplira une seule ; d'où il résulte que les longueurs des cordes sont inversement proportionnelles aux carrés du nombre des oscillations accomplies dans le même temps...
 
-**Kepler** - Nous voici sur la Lune, Galilée ! Regardez, voici la Terre !
+[Galilée et Simplicio font des gestes d'incompréhension/ennui/désespoir. Galilée finit par prendre Kepler par les épaules et l'améner hors scène, pendant qu'il continue de parler.]
+
+[Numéro de jongle avec les yoyos par Simplicio]
+
+[Galilée et Kepler rentrent sur scène]
+
+**Galilée** - Vos théorie sur les orbites paraboliques...
+
+**Kepler** - Elliptiques !
+
+**Galilée** - ...elliptiques, bien sûr. Vos théories, disais-je, sont fort intéressantes.
+
+**Kepler** - Ach ! Ça me rend fou que vous ayez promis à ce maudit prélat d'arrêter vos observations !
+
+**Galilée** - De quoi vous chagrinez-vous ? N'avez-vous pas remarqué qu'en jurant j'ai croisé mes doigts, mes pieds, et mêmes les poils de ma barbe ? Allons, Simplicio, soyez mignon. Voudriez-vous nous apporter mon téléscope, s'il vous plaît ?
+
+[Simplicio sort et revient avec une massue. Galilée et Kepler observent, Simplicio sort. Jeux de scène à travailler avec Émilia et Florent.]
+
+**Kepler** - Ces observations sont tellement... rapprochantes !
+
+**Galilée** - Vous dites bien, mon bon Kepler ! Qu'est-ce que j'aimerais pouvoir me rapprocher encore plus des astres !
+
+[**ndL** Je suis tenté de faire virer ça au crypto-gay :)]
+
+[Fait irruption sur scène Cyrano, suivi par Simplicio]
+
+**Cyrano** - Ah, ah, ah ! Voler vers les astres. Qu'elle est bonne celle là ! Mes chers messieurs, on dirait que vous n'avez point idée de ce qui s'y trouve !
+
+**Galilée** - Simplicio ! Combien de fois je t'ai dit que je ne veux pas être dérangé pendant mes observations ! [à Cyrano] Monsieur, qui êtes vous ?
+
+**Cyrano** - Hercule-Savinien de Cyrano de Bergerac. Fin écrivin, habile spadassin, et, plus récemment, armateur galactique !
+
+**Galilée** - *(en chouchotant à Kepler)* ...et sponsor de kleenex à ses heures perdues ! *(à voix haute à Cyrano)* Jamais entendu. Que voulez-vous ?
+
+**Cyrano** - Que veux-je ? Messieurs, il me semble que c'est vous qui voudriez quelque chose de moi. Si j'ai bien compris, vous souhaitez vous envoler vers les cieux, visiter les grands espaces...
+
+**Galilée** - Vraiment...
+
+**Kepler [en battant les mains]** - Ach ! Ja ! Ja !
+
+**Cyrano** - Je suis l'homme qui fait pour vous. J'ai une grande connaissance des techniques et des vitesses de libération. J'ai moi même déjà visité la lune et le soleil, et ouvert un commerce de foie gras sur Vénus.
+
+**Galilée** - Et vous compter vous envoler comment ? En vous aspergeant de rosée ?
+
+**Cyrano** - Déjà essayé. Pas très pratique. J'ai aussi essayé la moelle de bœuf, mais je crains que l'odeur ne convienne pas à vos nobles personnes. Non ! J'ai le plaisir de vous présenter la nouvelle flotte d'AirBergerac. L'Airbus du 17e siècle, le Titanic [**ndL** Costa Concordia?] de l'espace... le boulet Muchausen !
+
+[On lance/fait rouler sur scène trois ballons sauteurs, comme [ceux-ci](http://www.decathlon.fr/ballon-sauteur-60-cm-id_8186110.html#), ou peut-être [ceux-là](http://www.netjuggler.net/selection/push-balls.html).]
+
+**Cyrano** - Entre nous on l'appelle tout simplement le *Boing* !
+
+**Kepler** - Ja ! Ja ! Quand partons-nous ?
+
+**Cyrano** - Immédiatement, Messieurs !
+
+**Galilée** - Bon sang ! J'ai presque envie de retourner au tribunal de l'inquisition.
+
+[Les trois chévauchent chacun son boulet]
+
+**Cyrano** - Mesdames et Monsieurs ! Veuillez prêter attention aux consignes de sécurité, même si vous êtes un artiller fréquent. Cet appareil est muni de 4 sorties de sécours : une par devant, une par derrière, une par les côtés et une par le bas. Veuillez répérer la plus proche de vous. En cas de dépressurization, fiez vous aux théories de Galilée et attendez que l'oxygène remplisse le vide. Dans l'éventualité improbable d'un amerrissage, il n'y a pas de gillet de sauvetage ; de toutes façons l'hypotermie reste préfèreble à être péché par un bateau de pirates. Veuillez maintenant boucler votre centure de sécurité. AirBergerac vous souhaite un bon voyage.
+
+[Un countdouwn s'affiche à l'écran. Booom !]
+
+**Galilée** - Simplicio, aies soin de l'atelier pendant mon absenceeeeee !
+
+[Les bouletonautes s'éloignent en sautant avec les ballons. Simplicio sort.]
+
+[extrait de la vidéo de Space Oddity [interprétée par Chris Hadfield](http://www.youtube.com/watch?v=KaOC9danxNo).]
+
+**Cyrano** - Nous voici sur la Lune ! Regardez, voici la Terre !
 
 **Galilée** - Eppur si mouve ! Eppur si muove ! Hahaha ! Et pourtant, elle tourne !
 
@@ -100,15 +170,15 @@
 
 **Galilée** - Eh bien je le ferai mettre sur ma tombe, na.
 
-**Kepler** - Continuons notre voyage.
+**Cyrano** - Continuons notre voyage.
 
-**Kepler** - Ooooh, les géantes gazeuses ! Admirez leurs anneaux, Galilée !
+**Kepler** - Ooooh, regardez ces planètes. Ce sont les géantes gazeuses ! Admirez leurs anneaux, Galilée !
 
-**Jupiter** - Géant gazeux vous même, espèce de villain.
+**Jupiter** - Géant gazeux vous même, espèce de vilain.
 
-**Galilée** - ...Ahem... Veuillez excuser mon collègue, Mons... Ma... Madame Jupiter. Ces Allemands ne savent vraiment pas parler aux dames.
+**Cyrano** - ...Ahem... Veuillez excuser mes passagers, Madame. Ils ne sont pas très pratiques de l'éther.
 
-**Kepler (*choucotant à Galilée*)** - Galilée, psst, Galilée ! Voyez-vous ? Voici Jupiter, et Saturne. Mais... ? Qui sont les deux autres ?
+**Kepler (*chouchotant à Galilée*)** - Galilée, psst, Galilée ! Voyez-vous ? Voici Jupiter, et Saturne. Mais... ? Qui sont les deux autres ?
 
 **Galilée** - Des planètes inconnues ! Je croyais bien en avoir brièvement observé une récemment. Observons, mon bon Kepler, observons !
 
@@ -116,17 +186,21 @@
 
 **Galilée** - Kepler, taisez-vous, et regardez.
 
-[Avant le numéro de balles de Jérôme]
+[Numéro de hoop]
 
-[ndL. Ne pourrait ce numéro représenter plutôt les satellites de Jupiter ? Ça ferait une transition smooth: Jérôme n'aurait qu'à entrer en tournant autour de Jupiter.]
+[Jérôme entre en scène, en tournant autour de Jupiter]
 
-**Kepler** - Attention ! Une pluie d'astéroïdes !
+**Galilée** - Observez, Kepler ! Les satellites de Jupiter ! Ces fous de l'inquisition ne voulaient pas me croire !
 
-**Galilée** - Mettons-nous à l'abri ! (Ils s'abritent sous un parapluie)
+**Kepler** - Quelle découverte ! Nous pourrions les appeler, d'après les amantes de Juppiter. Que sais-je ? Io, Europa, Callisto, Ganymède, ...
 
-[Avant les comètes]
+**Galilée** - Vous avez trop d'imagination, Kepler. Je vais les appeler tout simplement les satellites Galiléens. Modeste, ne trouvez-vous ?
 
-**Kepler** - Journal de bord, jour 1, vers 16h30. Nous poursuivons notre voyage dans le système solaire. Je voudrais bien observer quelques comètes de près.
+[Numéro de balles de Jérôme]
+
+**Cyrano** - Journal de bord, jour 1, vers 16h30. Nous poursuivons notre voyage dans le système solaire.
+
+**Kepler** - Je voudrais bien observer quelques comètes de près.
 
 **Galilée** - Si loin de la Terre, j'en serais fort étonné. J'ai brillamment démontré que les comètes sont des phénomènes météorologiques dus à l'action du Soleil dans la haute atmosphère. Cet imbécile de Grassi prétendait qu'elles sont d'origine céleste et se déplacent sur une orbite !
 
@@ -136,12 +210,14 @@
 
 **Kepler** - Non, mais... voici justement des comètes...
 
-[Avant le rock]
+[Galilée boude. Numéro de rubans]
 
-**Kepler** - Nous quittons le système solaire ! Nous voici à la dérive vers la Voie Lactée !
+**Képler** - Mais, qu'est cet objet tellement brillant ?
 
-[Avant le trou noir]
+**Galilée** - Gna gna, vous allez encore me faire avaler votre histoire des comètes.
 
-**Kepler** - Ca alors ! Un phénomène totalement inconnu ! Vite, faisons des équations mathématiques !
-Je me sens étrangement attiré...
+**Cyrano** - Mais bien sûr que ç'en est une. Et pas n'importe laquelle ! C'est la comète de Bill Halley ! Entendez quel rythme !
 
+[Numéro de rock de Fathi/Cyrano. Idéalement, ce serait sur *Rock around the clock* (de Bill Halley and his comets), pour que la blague marche, mais bon...]
+
+[Grand final... qu'est-ce qu'on fait ?]
