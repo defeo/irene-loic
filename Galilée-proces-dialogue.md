@@ -42,11 +42,27 @@
 
 **Galilée** - Cessez de nous bassiner avec vos principes d'Aristote. Et mes découvertes ? Et les satellites de Jupiter ? Et les phases de Vénus ? et la Voie Lactée ? et les montagnes lunaires ? et les taches solaires ?
 
-**Kepler** - Et mon calcul des orbites elliptiques des planètes ? Et la nouvelle étoile que j'ai découverte ?
+**Kepler** - Et mon calcul des orbites elliptiques des planètes ? Et la nouvelle étoile que j'ai découverte ? Et les piles d'oranges ?
 
-**Simplicius l'Inquisiteur** - Hérésie que tout cela !
+**Galilée** - Les piles d'oranges ?
 
-**Kepler** - Mais pas du tout. D'ailleurs, si vous aviez lu mon livre...
+**Kepler** - J'expliquais l'autre jour à l'arabe du coin quelle était la meilleure façon d'empiler ses fruits...
+
+**Simplicius l'Inquisiteur** - Eh bien, parlons-en justement. Des façons d'empiler les oranges, il n'y en a qu'une seule et c'est celle d'Aristote : en carrés. Le prochain que je vois faire une pile d'oranges païenne, je fais un rapport au pape !
+
+**Galilée** - Et pour les bananes ?
+
+**Simplicius l'Inquisiteur** - Hérésie que tout cela !
+
+**Kepler** - L'Histoire me donnera raison !
+
+**Galilée** - (lance une balle) Vos théories sur les orbites paraboliques...
+
+**Kepler** - (lance une autre balle) Elliptiques ! Avec un foyer au centre de la Terre.
+
+**Simplicius l'Inquisiteur** Monsieur Galilée, à propos de foyer... vous souvenez-vous de Giordano Bruno ?
+
+**Galilée** - Je ne l'ai pas connu personnellement, mais il m'a été chaudement recommandé par le cardinal Bellarmine...
 
 **Simplicius l'Inquisiteur** - Il suffit ! Je vais m'énerver ! Répétez après moi : le Tribunal de la Sainte Inquisition a toujours raison.
 
@@ -64,7 +80,7 @@
 
 **Kepler** - Oui. Je ne veux pas finir comme Giordano Bruno.
 
-**Galilée** - J'abjure, la Terre est fixe et au centre du monde, et tout ça.
+**Galilée** - Oui. Je ne veux pas qu'on m'apporte des oranges dans les geôles du Vatican.
 
 **Simplicius l'Inquisiteur** - Ainsi soit-il.
 
@@ -96,12 +112,6 @@
 
 [Galilée et Kepler rentrent sur scène]
 
-**Galilée** - Vos théorie sur les orbites paraboliques...
-
-**Kepler** - Elliptiques !
-
-**Galilée** - ...elliptiques, bien sûr. Vos théories, disais-je, sont fort intéressantes.
-
 **Kepler** - Ach ! Ça me rend fou que vous ayez promis à ce maudit prélat d'arrêter vos observations !
 
 **Galilée** - De quoi vous chagrinez-vous ? N'avez-vous pas remarqué qu'en jurant j'ai croisé mes doigts, mes pieds, et mêmes les poils de ma barbe ? Allons, Simplicio, soyez mignon. Voudriez-vous nous apporter mon téléscope, s'il vous plaît ?
@@ -122,7 +132,7 @@
 
 **Cyrano** - Hercule-Savinien de Cyrano de Bergerac. Fin écrivin, habile spadassin, et, plus récemment, armateur galactique !
 
-**Galilée** - *(en chouchotant à Kepler)* ...et sponsor de kleenex à ses heures perdues ! *(à voix haute à Cyrano)* Jamais entendu. Que voulez-vous ?
+**Galilée** - *(en chuchotant à Kepler)* ...et sponsor de kleenex à ses heures perdues ! *(à voix haute à Cyrano)* Jamais entendu. Que voulez-vous ?
 
 **Cyrano** - Que veux-je ? Messieurs, il me semble que c'est vous qui voudriez quelque chose de moi. Si j'ai bien compris, vous souhaitez vous envoler vers les cieux, visiter les grands espaces...
 
