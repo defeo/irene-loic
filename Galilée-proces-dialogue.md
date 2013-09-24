@@ -120,7 +120,7 @@
 
 **Galilée** - Simplicio ! Combien de fois t'ai-je dit que je ne veux pas être dérangé pendant mes observations ! [à Cyrano] Monsieur, qui êtes vous ?
 
-**Cyrano** - Cyrano de Bergerac, Hercul'-Savinien, fort habile bretteur et très grand écrivain, armateur galactique, inventeur de fusées, fameux découvreur de terres inexplorées !
+**Cyrano** - Cyrano d' Bergerac, Hercule-Savinien, fort habile bretteur et très grand écrivain, armateur galactique, inventeur de fusées, fameux découvreur de terres inexplorées !
 
 **Galilée** - *(en chuchotant à Kepler)* En voilà un qui doit se ruiner en Kleenex ! *(à voix haute à Cyrano)* Jamais entendu parler. Que voulez-vous ?
 
