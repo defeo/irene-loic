@@ -42,15 +42,9 @@
 
 **Galilée** - Cessez de nous bassiner avec vos principes d'Aristote. Et mes découvertes ? Et les satellites de Jupiter ? Et les phases de Vénus ? et la Voie Lactée ? et les montagnes lunaires ? et les taches solaires ?
 
-**Kepler** - Et mon calcul des orbites elliptiques des planètes ? Et la nouvelle étoile que j'ai découverte ?
+**Kepler** - Et la nouvelle étoile que j'ai découverte ? Et mon calcul des orbites elliptiques des planètes ?
 
-**Simplicius l'Inquisiteur** - Hérésie que tout cela !
-
-**Kepler** - L'Histoire me donnera raison !
-
-**Galilée** - Vos théories sur les orbites paraboliques...
-
-**Kepler** - Elliptiques ! Avec un foyer au centre de la Terre.
+**Galilée** - Avec un foyer au centre de la Terre !
 
 **Simplicius l'Inquisiteur** Monsieur Galilée, à propos de foyer... vous souvenez-vous de Giordano Bruno ?
 
