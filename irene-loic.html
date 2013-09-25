@@ -1,0 +1,65 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="popcorn.min.js"></script>
+    <script src="jquery.min.js"></script>
+    <script src="irene-loic.js"></script>
+
+    <style>
+      a {
+        text-decoration: none;
+        color: blue;
+        margin-left: 0.9em;
+      }
+      a:hover { text-decoration: underline }
+      .current {
+        color: red;
+        margin-left: 0;
+      }
+      body.playing .current:before,
+      body:not(.playing) button span:before
+      { content: "▸ " }
+      body:not(.playing) .current:before,
+      body.playing button span:before
+      { content: "❙❙ " }
+      video, div {
+        display: inline-block;
+        margin: 1em;
+        vertical-align: top;
+      }
+      ol li { padding: 0.3ex 0 }
+      button {
+        display: block;
+        padding: 0.5ex;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <video height="288" width="384" id="video" controls>
+      <source src="irene-loic-low.ogg">
+      <source src="http://quatramaran.ens.fr/~defeo/irene-loic-low.ogg">
+      <source src="irene-loic.ogg">
+    </video>
+    
+    <div>
+      <ol>
+	<li><a href="#inquisition">Inquisition: début.</a></li>
+	<li><a href="#pendules">Inquisition: fin. L'atelier de Galilée: début.</a></li>
+	<li><a href="#simplicio">Simplicio jongle avec les pendules (yoyos).</a></li>
+	<li><!--a href="#observation"-->Galilée et Kepler observent au téléscope (massues).</a></li>
+	<li><a href="#decollage">Cyrano emmène Galilée et Kepler dans l'espace.</a></li>
+	<li><!--a href="#planetes"-->La danse des planètes (hoop).</a></li>
+	<li><!--a href="#satellites"-->Les satellites galiléens (balles).</a></li>
+	<li><!--a href="#cometes"-->La danse des comètes (bolas).</a></li>
+	<li><!--a href="#rock"-->Le rock de Cyrano (rock).</a></li>
+	<li><!--a href="#supernovae"-->Les supernovæ explosent.</a></li>
+	<li><!--a href="#retour"-->Le retour sur terre. Fin.</a></li>
+      </ol>
+      
+      <button><span></span>&nbsp; ou appuyez sur entrée.</button>
+    </div>
+
+<p><a href="https://github.com/defeo/irene-loic/blob/master/Galil%C3%A9e-proces-dialogue.md">Le texte de la pièce.</a></p>
+  </body>
+</html>
