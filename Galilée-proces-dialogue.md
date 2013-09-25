@@ -264,6 +264,6 @@
 
 **Kepler** Et quant à moi, je ne sais pas si vous l'avez lu, mais j'ai écrit un livre de science-fiction qui...
 
-**Cyrano** Au pays de la samba et du carnaval, Cessons de disputer, messieurs, et en deux mots, Comme un vol de gerfauts hors du charnier natal, Envolons-nous pour découvrir Eldorado ! La gravité sera notre seul handicap ! Faisant fi des frimas et de la canicule, D'une nouvelle aventure prenons le cap ! Que dis-je, c'est un cap, c'est une péninsule !
+**Cyrano** Au pays de la samba et du carnaval, Cessons de disputer, messieurs, et en deux mots, Comme un vol de gerfauts hors du charnier natal, Envolons-nous pour découvrir Eldorado ! La gravité sera notre seul handicap ! Faisant fi des frimas et de la canicule, D'une nouvelle aventure prenons le cap ! Que dis-je, c'est un cap, c'est une péninsule ! *(Il finit de profil.)*
 
 [fin, saluts]
