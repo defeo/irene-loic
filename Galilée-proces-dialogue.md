@@ -206,8 +206,27 @@
 
 [Galilée boude. Numéro de bolas] [musique : 2000 lightyears from home]
 
-A terminer : Cyrano danse le rock avec une étoile [musique L'amour brille sous les étoiles]
+Galilée - Je ne vois plus de planètes ! Il semblerait que nous sortions du système solaire pour nous diriger vers la Voie Lactée ! Je vous ferai observer que tout concorde avec mes calculs.
+Cyrano - Et savez-vous que toutes ces étoiles sont des mondes, autour desquels tournent d'autres Terres ?
+Kepler - Giordano Bruno avait donc raison ! Euh... il ne faut peut-être pas dire cela trop fort...
+Cyrano - Tenez, voici une étoile. Je vous présente Proxima du Centaure. Vous allez voir, elle est très amicale. 
 
-L'étoile explose en supernova [numéro pompom] [musique : Space Truckin']
+[numéro rock] [musique L'amour brille sous les étoiles]
 
-Retour des trois Caballeros sur Terre, ils atterrissent à Sao Paulo, où ils retrouvent Simplicius l'Inquisiteur, qui a rejoint le collège de jésuites et qui va leur présenter deux astronomes fraîchement débarqués d'Europe...
+Cyrano - Mais, Proxima, que vous arrive-t-il ? Proxima ! Pourquoi devenez-vous toute rouge ? .... Oh mon Dieu ! Je crois qu'elle va exploser ! 
+
+[numéro pompom] [musique : Space Truckin']
+
+Retour des trois Caballeros sur Terre
+
+Galilée - Je crois que nous voici revenus sur Terre.
+Kepler - Mais où pouvons-nous avoir atterri ?
+Cyrano - Allons demander à cet autochthone.
+Galilée, Kepler et l'Inquisiteur - Encore vous !
+L'Inquisiteur - Mais que faites-vous ici ? Vous me poursuivez !
+Kepler - Et vous même ! Et d'abord, où sommes-nous ici ?
+L'Inquisiteur - Comment ça, où sommes-nous ? LE pilote de votre bateau ne vous l'a-t-il pas dit ?
+Galilée - Nous n'avons pas pris le bateau. Nous avons...
+Kepler - Chhht ! Pensez à Giordano Bruno !
+Galilée - Failli nous retrouver au bûcher.
+L'inquisiteur - J'en étais sûr. Vous êtes au nouveau Monde, dans les colonies portugaises. Il y a une nouvelle ville qui est en train de se former ici, autour d'un couvent de jésuite construit en l'honneur de Saint-Paul. Sao Paulo, comme disent les Portugais dans leur étrange langage. J'ai obtenu d'être envoyé ici pour me reposer après ce pénible procès. Et je suis poursuivi ! Il y a de ces infâmes astronomes hérétiques partout ! On en attend encore deux qui doivent arriver d'Europe ! Tenez, les voilà ! Hérétiques ! Hérétiques !
