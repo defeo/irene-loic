@@ -6,27 +6,27 @@
 
 **Galilée** - Italienne.
 
-**Simplicius l'Inquisiteur** - Profession ?
+**L'Inquisiteur** - Profession ?
 
 **Galilée** - Astronome et mathématicien. Et horloger.
 
-**Simplicius l'Inquisiteur** - Deuxième accusé, levez-vous. Nom ?
+**L'Inquisiteur** - Deuxième accusé, levez-vous. Nom ?
 
 **Kepler** - Johannes Kepler.
 
-**Simplicius l'Inquisiteur** - Nationalité ?
+**L'Inquisiteur** - Nationalité ?
 
 **Kepler** - Allemande.
 
-**Simplicius l'Inquisiteur** - Profession ?
+**L'Inquisiteur** - Profession ?
 
 **Kepler** - Astronome et mathématicien. Oh, et astrologue. Et théologien. Et j'ai aussi écrit un roman de science-fiction qui...
 
-**Simplicius l'Inquisiteur** - Bien, bien. Procédons. Monsieur Galilée, votre théorie est stupide, absurde, et fausse scientifiquement.
+**L'Inquisiteur** - Bien, bien. Procédons. Monsieur Galilée, votre théorie est stupide, absurde, et fausse scientifiquement.
 
 **Galilée** - Ah oui, et qu'est-ce qui vous fait dire ça ?
 
-**Simplicius l'Inquisiteur** - Elle contredit les Saintes Ecritures, et l'interprétation de tous les théologiens ! Qu'est-ce que vous avez à répondre à ça ?
+**L'Inquisiteur** - Elle contredit les Saintes Ecritures, et l'interprétation de tous les théologiens ! Qu'est-ce que vous avez à répondre à ça ?
 
 **Galilée** - La Bible n'est pas le seul moyen de connaître. Dieu nous a donné l'intelligence pour que nous nous en servions, et croyez-moi, j'en ai personnellement beaucoup. Avezvous lu mon ouvrage Le Messager Céleste ?
 
@@ -34,11 +34,11 @@
 
 [Simplicius et Galilée s'échangent des regards d'incompréhension.]
 
-**Simplicius  l'Inquisiteur** -  Certainement  non.  La  vérité  catholique,  et  les  principes d'Aristote...
+**L'Inquisiteur** -  Certainement  non.  La  vérité  catholique,  et  les  principes d'Aristote...
 
 **Kepler** - Par ailleurs, je ne sais pas si vous l'avez lu, mais j'ai écrit un livre de sciencefiction. C'est l'histoire d'un homme qui va sur la Lune, et...
 
-**Simplicius l'Inquisiteur** - Ne m'interrompez pas. La vérité catholique, disais-je, et les principes d'Aristote...
+**L'Inquisiteur** - Ne m'interrompez pas. La vérité catholique, disais-je, et les principes d'Aristote...
 
 **Galilée** - Cessez de nous bassiner avec vos principes d'Aristote. Et mes découvertes ? Et les satellites de Jupiter ? Et les phases de Vénus ? et la Voie Lactée ? et les montagnes lunaires ? et les taches solaires ?
 
@@ -46,41 +46,41 @@
 
 **Galilée** - Avec un foyer au centre de la Terre !
 
-**Simplicius l'Inquisiteur** Monsieur Galilée, à propos de foyer... vous souvenez-vous de Giordano Bruno ?
+**L'Inquisiteur** Monsieur Galilée, à propos de foyer... vous souvenez-vous de Giordano Bruno ?
 
 **Galilée** - Je ne l'ai pas connu personnellement, mais il m'a été chaudement recommandé par le cardinal Bellarmine...
 
-**Simplicius l'Inquisiteur** - Il suffit ! Je vais m'énerver ! Répétez après moi : le Tribunal de la Sainte Inquisition a toujours raison.
+**L'Inquisiteur** - Il suffit ! Je vais m'énerver ! Répétez après moi : le Tribunal de la Sainte Inquisition a toujours raison.
 
 **Kepler et Galilée, en chœur** - Le Tribunal de la Sainte Inquisition a toujours raison.
 
-**Simplicius l'Inquisiteur** - Je ne tiens pas du tout à contrarier le Tribunal de la Sainte Inquisition.
+**L'Inquisiteur** - Je ne tiens pas du tout à contrarier le Tribunal de la Sainte Inquisition.
 
 **Kepler et Galilée,  en chœur** - Je ne tiens pas du tout à contrarier le Tribunal de la Sainte Inquisition.
 
-**Simplicius l'Inquisiteur** - Je sais ce qui arrive, quand je contrarie le Tribunal de la Sainte Inquisition.
+**L'Inquisiteur** - Je sais ce qui arrive, quand je contrarie le Tribunal de la Sainte Inquisition.
 
 **Kepler et Galilée, en chœur** - Je sais ce qui arrive, quand je contrarie le Tribunal de la Sainte Inquisition.
 
-**Simplicius l'Inquisiteur** - Bien ! nous progressons. Abjurez-vous vos théories hérétiques ?
+**L'Inquisiteur** - Bien ! nous progressons. Abjurez-vous vos théories hérétiques ?
 
 **Kepler** - Oui. Je ne veux pas finir comme Giordano Bruno.
 
 **Galilée** - J'abjure, la Terre est fixe et au centre du monde, et tout ça.
 
-**Simplicius l'Inquisiteur** - Ainsi soit-il.
+**L'Inquisiteur** - Ainsi soit-il.
 
 **Galilée** - Et pourtant...
 
-**Simplicius l'Inquisiteur** - Ah, non, on ne va pas recommencer ! Le tribunal de la Sainte Inquisition a toujours raison ! Jurez solennellement sur cette sainte écriture que vous allez abandonner vos observations astronomiques. [tend la bible à Galilée]
+**L'Inquisiteur** - Ah, non, on ne va pas recommencer ! Le tribunal de la Sainte Inquisition a toujours raison ! Jurez solennellement sur cette sainte écriture que vous allez abandonner vos observations astronomiques. [tend la bible à Galilée]
 
 **Galilée [en posant une main sur la bible, les doigts croisés dans le dos]** - Eh bien, je le jure. Venez, mon bon Kepler. Allons dans mon atelier faire des expériences... terrestres.
 
-[Tout le monde quitte la scène. Simplicio (pas l'inquisiteur), s'installe avec ses pendules (yoyos) et commence à les faire osciller.]
+[Tout le monde quitte la scène. Simplicio le disciple s'installe avec ses pendules (yoyos) et commence à les faire osciller.]
 
 [Galilée et Kepler entrent.] 
 
-**Galilée** - Vous allez voir, Kepler, mes expériences sur les pendules sont d'un intérêt remarquable... et elles ne risquent pas de nous envoyer au bûcher ! *(en s'adressant à Simplicio)* Disciiiiiiiple ! Simplicio ! Venez ici ! Comment vont nos expériences sur la chute des corps pesants ?
+**Galilée** - Vous allez voir, Kepler, mes expériences sur les pendules sont d'un intérêt remarquable... et elles ne risquent pas de nous envoyer au bûcher ! *(en s'adressant à Simplicio)* Disciiiiiiiple ! Simplicio ! Ici ! Comment vont nos expériences sur la chute des corps pesants ?
 
 **Simplicio** - Merveilleusement, Maître ! Je sers la science et c'est ma joie ! Hihihihi !
 
@@ -100,9 +100,9 @@
 
 **Kepler** - Ach ! Ça me rend fou que vous ayez promis à ce maudit prélat d'arrêter vos observations !
 
-**Galilée** - De quoi vous chagrinez-vous ? N'avez-vous pas remarqué qu'en jurant j'ai croisé mes doigts, mes pieds, et mêmes les poils de ma barbe ? Allons, Simplicio, soyez mignon. Voudriez-vous nous apporter mon téléscope, s'il vous plaît ?
+**Galilée** - De quoi vous chagrinez-vous ? N'avez-vous pas remarqué qu'en jurant j'ai croisé mes doigts, mes pieds, et mêmes les poils de ma barbe ? Allons, Simplicio, apporte-nous mon télescope.
 
-[Simplicio sort et revient avec une massue. Galilée et Kepler observent, Simplicio sort. Jeux de scène à travailler avec Émilia et Florent.]
+[Simplicio sort et revient avec une massue. Galilée et Kepler observent, Simplicio sort. Jeux de scène à travailler avec les jongleurs.]
 
 **Kepler** - Je sens qu'une force invisible cherche à m'arracher mon télescope ! Serait-ce le vent ?
 
@@ -126,7 +126,7 @@
 
 **Cyrano** - Je suis l'homme de la situation. J'ai une grande connaissance des techniques et des vitesses de libération. J'ai moi même déjà visité la lune et le soleil, et ouvert un commerce de foie gras du Sud-Ouest sur Vénus.
 
-**Galilée** - Et vous compter vous envoler comment ? En vous aspergeant de rosée ?
+**Galilée** - Et comment comptez-vous vous envoler ? En vous aspergeant de rosée ?
 
 **Cyrano** - Déjà essayé. Pas très pratique. J'ai aussi essayé la moelle de bœuf, mais je crains que l'odeur ne convienne pas à vos nobles personnes. Non ! J'ai le plaisir de vous présenter la méthode Munchausen : le boulet de canon !
 
@@ -143,6 +143,10 @@
 [Les trois chevauchent chacun son boulet]
 
 **Cyrano** - Mesdames et Monsieurs ! Veuillez prêter attention aux consignes de sécurité, même si vous êtes un artilleur averti. Cet appareil est muni de 4 sorties de secours : une par devant, une par derrière, une par les côtés et une par le bas. Veuillez repérer la plus proche de vous. En cas de dépressurisation, fiez vous aux théories de Galilée et attendez que l'oxygène remplisse le vide. Dans l'éventualité improbable d'un amerrissage, il n'y a pas de gilet de sauvetage ; de toutes façons il est encore préférable de périr par hypothermie que d'être pêché par un bateau de pirates. Veuillez maintenant boucler votre centure de sécurité. AirBergerac vous souhaite un bon voyage.
+
+**Galilée** Mais qu'est-ce qu'il raconte ?
+
+**Kepler** Je crois qu'il a un coup dans le nez.
 
 [Un countdouwn s'affiche à l'écran. Booom !]
 
@@ -194,6 +198,10 @@
 
 **Cyrano** - Journal de bord, jour 1, vers 16h30. Nous poursuivons notre voyage dans le système solaire.
 
+**Kepler** C'est évident.
+
+**Galilée** Comme le nez au milieu de la figure.
+
 **Kepler** - Je voudrais bien observer quelques comètes de près.
 
 **Galilée** - Si loin de la Terre, j'en serais fort étonné. J'ai brillamment démontré que les comètes sont des phénomènes météorologiques dus à l'action du Soleil dans la haute atmosphère. Cet imbécile de Grassi prétendait qu'elles sont d'origine céleste et se déplacent sur une orbite !
@@ -206,27 +214,56 @@
 
 [Galilée boude. Numéro de bolas] [musique : 2000 lightyears from home]
 
-Galilée - Je ne vois plus de planètes ! Il semblerait que nous sortions du système solaire pour nous diriger vers la Voie Lactée ! Je vous ferai observer que tout concorde avec mes calculs.
-Cyrano - Et savez-vous que toutes ces étoiles sont des mondes, autour desquels tournent d'autres Terres ?
-Kepler - Giordano Bruno avait donc raison ! Euh... il ne faut peut-être pas dire cela trop fort...
-Cyrano - Tenez, voici une étoile. Je vous présente Proxima du Centaure. Vous allez voir, elle est très amicale. 
+**Galilée** - Je ne vois plus de planètes ! Il semblerait que nous sortions du système solaire pour nous diriger vers la Voie Lactée ! Je vous ferai observer que tout concorde avec mes calculs.
+
+**Cyrano** - Et savez-vous que toutes ces étoiles sont des mondes, autour desquels tournent d'autres Terres ?
+
+**Kepler** - Giordano Bruno avait donc raison ! Euh... il ne faut peut-être pas dire cela trop fort...
+
+**Cyrano** - Tenez, voici une étoile. Je vous présente Proxima du Centaure. Vous allez voir, elle est très amicale. 
 
 [numéro rock] [musique L'amour brille sous les étoiles]
 
-Cyrano - Mais, Proxima, que vous arrive-t-il ? Proxima ! Pourquoi devenez-vous toute rouge ? .... Oh mon Dieu ! Je crois qu'elle va exploser ! 
+**Cyrano** - Mais, Proxima, que vous arrive-t-il ? Proxima ! Pourquoi devenez-vous toute rouge ? .... Oh mon Dieu ! Je crois qu'elle va exploser ! 
 
 [numéro pompom] [musique : Space Truckin']
 
-Retour des trois Caballeros sur Terre
+**Galilée** - Aaaah ! Nous retournons sur Terre ! 
 
-Galilée - Je crois que nous voici revenus sur Terre.
-Kepler - Mais où pouvons-nous avoir atterri ?
-Cyrano - Allons demander à cet autochthone.
-Galilée, Kepler et l'Inquisiteur - Encore vous !
-L'Inquisiteur - Mais que faites-vous ici ? Vous me poursuivez !
-Kepler - Et vous même ! Et d'abord, où sommes-nous ici ?
-L'Inquisiteur - Comment ça, où sommes-nous ? LE pilote de votre bateau ne vous l'a-t-il pas dit ?
-Galilée - Nous n'avons pas pris le bateau. Nous avons...
-Kepler - Chhht ! Pensez à Giordano Bruno !
-Galilée - Failli nous retrouver au bûcher.
-L'inquisiteur - J'en étais sûr. Vous êtes au nouveau Monde, dans les colonies portugaises. Il y a une nouvelle ville qui est en train de se former ici, autour d'un couvent de jésuite construit en l'honneur de Saint-Paul. Sao Paulo, comme disent les Portugais dans leur étrange langage. J'ai obtenu d'être envoyé ici pour me reposer après ce pénible procès. Et je suis poursuivi ! Il y a de ces infâmes astronomes hérétiques partout ! On en attend encore deux qui doivent arriver d'Europe ! Tenez, les voilà ! Hérétiques ! Hérétiques !
+*Schblaf - ils rentrent dans Bibi*
+
+**Kepler** - Mais où pouvons-nous avoir atterri ? A vue de nez... ?
+
+**Cyrano** - Demandons à cet autochthone.
+
+**Galilée, Kepler et l'Inquisiteur** - Encore vous !
+
+**L'Inquisiteur** - Mais que faites-vous ici ? Vous me poursuivez !
+
+**Kepler** - Et vous même ! Et d'abord, où sommes-nous ici ?
+
+**L'Inquisiteur** - Comment ça, où sommes-nous ? Le commandant de votre bateau ne vous l'a-t-il pas dit ?
+
+**Galilée** - Nous n'avons pas pris le bateau. Nous avons...
+
+**Kepler** - Chhht ! Pensez à Giordano Bruno !
+
+**Galilée** - Failli nous retrouver au bûcher.
+
+**L'inquisiteur** - J'en étais sûr. Vous êtes au nouveau Monde, dans les colonies portugaises. Il y a une nouvelle ville qui est en train de se construire ici, autour d'un couvent de jésuite construit en l'honneur de Saint-Paul. Sao Paulo, comme disent les Portugais dans leur étrange langage. J'ai obtenu d'être envoyé ici pour me reposer après ce pénible procès en buvant des caipirinhas. Mais non, rien à faire ! Il y a de ces infâmes astronomes hérétiques partout ! On en attend encore deux qui doivent arriver d'Europe ! Tenez, les voilà ! Hérétiques ! Hérétiques !
+
+**Galilée** Monsieur le Grand Inquisiteur, taisez-vous. 
+
+**L'inquisiteur** Mais...
+
+**Kepler** C'est le nouveau Monde, ici. Laissez vos vieilles bêtises !
+
+**L'inquisiteur** Mais...
+
+**Galilée** Venez, venez, Madame, Monsieur. Allons faire quelques observations astronomiques. Peut-être avez-vous lu mon dialogue sur les deux principaux systèmes du monde ?
+
+**Kepler** Et quant à moi, je ne sais pas si vous l'avez lu, mais j'ai écrit un livre de science-fiction qui...
+
+**Cyrano** Au pays de la samba et du carnaval, Cessons de disputer, messieurs, et en deux mots, Comme un vol de gerfauts hors du charnier natal, Envolons-nous pour découvrir Eldorado ! La gravité sera notre seul handicap, Par mon bon vieux fleuret (il le brandit) et par ma particule ! D'une nouvelle aventure prenons le cap ! Que dis-je, c'est un cap, c'est une péninsule !
+
+[fin, saluts]
