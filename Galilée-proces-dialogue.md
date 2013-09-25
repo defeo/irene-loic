@@ -242,17 +242,17 @@
 
 **Kepler** - Et vous même ! Et d'abord, où sommes-nous ici ?
 
-**L'Inquisiteur** - Comment ça, où sommes-nous ? Le commandant de votre bateau ne vous l'a-t-il pas dit ?
+**L'Inquisiteur** - Comment ça, où sommes-nous ? Et qu'est-ce que c'est que ces boulets de canon ? Et qui est celui-là *(il montre Cyrano)* avec son grand...
 
-**Galilée** - Nous n'avons pas pris le bateau. Nous avons...
+**Galilée et Kepler** - Chhht !
 
-**Kepler** - Chhht ! Pensez à Giordano Bruno !
+**Cyrano** - Mon grand quoi ?
 
-**Galilée** - Failli nous retrouver au bûcher.
+**Galilée** - Oh, rien. En quelques mots, nous avons fait un long voyage, et nous avons failli finir brûlés.
 
-**L'inquisiteur** - J'en étais sûr. Vous êtes au nouveau Monde, dans les colonies portugaises. Il y a une nouvelle ville qui est en train de se construire ici, autour d'un couvent de jésuite construit en l'honneur de Saint-Paul. Sao Paulo, comme disent les Portugais dans leur étrange langage. J'ai obtenu d'être envoyé ici pour me reposer après ce pénible procès en buvant des caipirinhas. Mais non, rien à faire ! Il y a de ces infâmes astronomes hérétiques partout ! On en attend encore deux qui doivent arriver d'Europe ! Tenez, les voilà ! Hérétiques ! Hérétiques !
+**L'inquisiteur** - Ca ne m'étonne pas. Eh bien sachez que vous êtes au nouveau Monde, dans les colonies portugaises. Il y a une nouvelle ville qui est en train de se construire ici, autour d'un couvent de jésuite construit en l'honneur de Saint-Paul. Sao Paulo, comme disent les Portugais dans leur étrange langage. J'ai obtenu d'être envoyé ici pour me reposer après ce pénible procès en buvant des caipirinhas. Mais non, rien à faire ! Il y a de ces infâmes astronomes hérétiques partout ! On en attend encore deux qui doivent arriver d'Europe ! Tenez, les voilà ! Hérétiques ! Hérétiques ! *(Il se lance sur Irène et Loïc. Les trois autres le retiennent)*
 
-**Galilée** Monsieur le Grand Inquisiteur, taisez-vous. 
+**Galilée** Monsieur le Grand Inquisiteur, calmez-vous. *(Il lui donne une capirinha)* 
 
 **L'inquisiteur** Mais...
 
@@ -264,6 +264,6 @@
 
 **Kepler** Et quant à moi, je ne sais pas si vous l'avez lu, mais j'ai écrit un livre de science-fiction qui...
 
-**Cyrano** Au pays de la samba et du carnaval, Cessons de disputer, messieurs, et en deux mots, Comme un vol de gerfauts hors du charnier natal, Envolons-nous pour découvrir Eldorado ! La gravité sera notre seul handicap, Par mon bon vieux fleuret (il le brandit) et par ma particule ! D'une nouvelle aventure prenons le cap ! Que dis-je, c'est un cap, c'est une péninsule !
+**Cyrano** Au pays de la samba et du carnaval, Cessons de disputer, messieurs, et en deux mots, Comme un vol de gerfauts hors du charnier natal, Envolons-nous pour découvrir Eldorado ! La gravité sera notre seul handicap ! Faisant fi des frimas et de la canicule, D'une nouvelle aventure prenons le cap ! Que dis-je, c'est un cap, c'est une péninsule !
 
 [fin, saluts]
