@@ -24,11 +24,19 @@
 	body:not(.playing) .current:before,
 	body.playing button span:before
 	{ content: "❙❙ " }
-	video, #playlist {
+	#video-container, #playlist {
 	  display: inline-block;
 	  margin: 1em;
 	  vertical-align: top;
-	}
+        }
+        #video-container {
+          text-align: center;
+          height: 288px;
+          width: 384px;
+        }
+        #video-container.detached {
+          visibility: hidden;
+        }
 	ol li { padding: 0.3ex 0 }
 	ol a { margin-left: 0.9em }
 	button {
@@ -55,16 +63,19 @@
       }
 
       @media print {
-        #print, video, #playlist, button { display: none }
+        #print, #video-container, #playlist { display: none }
       }
     </style>
   </head>
   <body>
-    <video height="288" width="384" id="video" controls>
-      <source src="irene-loic-low.ogg"/>
-      <source src="http://quatramaran.ens.fr/~defeo/irene-loic-low.ogg"/>
-      <source src="irene-loic.ogg"/>
-    </video>
+    <div id="video-container">
+      <video height="100%" width="100%" id="video" controls>
+	<source src="irene-loic.ogg"/>
+	<source src="irene-loic-low.ogg"/>
+	<source src="http://quatramaran.ens.fr/~defeo/irene-loic-low.ogg"/>
+      </video>
+      <p><a href="#">Détacher la vidéo.</a></p>
+    </div>
     
     <div id="playlist">
       <ol>

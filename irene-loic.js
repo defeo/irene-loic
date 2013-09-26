@@ -128,4 +128,35 @@ $(function() {
 	    $('#text').html(conv.makeHtml(data));
 	}
     });
+
+    // Move video to a new window
+    $('#video-container a').on('click', function() {
+	if (!$('#video-container').hasClass('detached')) {
+	    $('#video-container').addClass('detached');
+
+	    // Move video to new window
+	    var w = window.open(null, "_blank", 
+				"menubar=0,toolbar=0,location=0,personalbar=0,status=0,scrollbars=0");
+	    var media = $('#video')
+	    $(w.document.body)
+		.append(media)
+		.css('background-color', 'black')
+		.css('padding', '0')
+		.css('margin', '0');
+	    pop.controls(false);
+
+	    // pass all keydown events to original page
+	    $(w.document).on('keydown', function(e) {
+		$(document).trigger(e);
+	    });
+	    // on popoup close, take video back
+	    $(w).on('unload', function() {
+		pop.controls(true);
+		$('#video-container')
+		    .prepend(media)
+		    .removeClass('detached');
+	    });
+	}
+	return false;
+    });
 });
