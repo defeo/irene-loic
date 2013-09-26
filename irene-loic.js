@@ -13,6 +13,20 @@ $(function() {
 	'#retour': -1
     };
 
+    var bookmarks = {
+	'#inquisition': 0,
+	'#pendules': 40,
+	'#simplicio': 49,
+	'#observation': 56,
+	'#decollage': 76,
+	'#planetes': 95,
+	'#satellites': 107,
+	'#cometes': 112,
+	'#rock': 114,
+	'#supernovae': 134,
+	'#retour': 134
+    };
+
     var pop = Popcorn('#video');
 
     function play(cue) {
@@ -59,29 +73,51 @@ $(function() {
         }
     }
 
+    function currentHash() {
+        var t = pop.currentTime();
+        cue = 0;
+        hash = null;
+        for (h in cues) {
+	    if (cues[h] > 0 && cues[h]-1 <= t && cues[h] > cue) {
+		cue = cues[h];
+		hash = h;
+	    }
+        }
+	return hash;
+    }
+    
     pop
     // Modify playlist on play/pause
-	.on('playing', function() {
+	.on('playing', function(e) {
 	    $('body').addClass('playing');
+	    // scroll text
+	    var hash = currentHash();
+	    $($('#text>p')
+	      .removeClass('current')
+	      .get(bookmarks[hash]))
+		.addClass('current')
+		.get(0).scrollIntoView();
 	})
 	.on('pause', function() {
-	    $('body').removeClass('playing');
+	    $('body').removeClass('playing');		
+	    $('#text>p').removeClass('current');
 	})
-    // On time change, look for the closest cue and update playlist
+    // On time change, look for the closest cue update playlist
 	.on('timeupdate', function() {
-            var t = pop.currentTime();
-            cue = 0;
-            hash = null;
-            for (h in cues) {
-		if (cues[h] > 0 && cues[h]-1 <= t && cues[h] > cue) {
-		    cue = cues[h];
-		    hash = h;
-		}
-            }
-
+	    var hash = currentHash();
 	    if (hash) {
 		$('ol a').removeClass('current');
 		$('a[href="' + hash + '"]').addClass('current');
 	    }
 	});
+
+    var conv = new Markdown.Converter();
+
+    $.ajax({
+	url: 'Galilée-proces-dialogue.md',
+	dataType: 'text',
+	success: function (data) {
+	    $('#text').html(conv.makeHtml(data));
+	}
+    });
 });

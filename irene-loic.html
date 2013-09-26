@@ -3,6 +3,7 @@
     <meta charset="utf-8">
     <script src="popcorn.min.js"></script>
     <script src="jquery.min.js"></script>
+    <script src="Markdown.Converter.js"></script>
     <script src="irene-loic.js"></script>
 
     <style>
@@ -22,7 +23,7 @@
       body:not(.playing) .current:before,
       body.playing button span:before
       { content: "❙❙ " }
-      video, div {
+      video, #playlist {
         display: inline-block;
         margin: 1em;
         vertical-align: top;
@@ -33,16 +34,27 @@
         padding: 0.5ex;
         margin: auto;
       }
+      #text {
+        height: 20em;
+        overflow: auto;
+        width: 90%;
+        margin: auto;
+        box-shadow: 0 0 4px 4px #ccc;
+        padding: 0.3ex;
+      }
+      body.playing #text {
+        color: #ccc;
+      }
     </style>
   </head>
   <body>
     <video height="288" width="384" id="video" controls>
-      <source src="irene-loic-low.ogg">
-      <source src="http://quatramaran.ens.fr/~defeo/irene-loic-low.ogg">
-      <source src="irene-loic.ogg">
+      <source src="irene-loic-low.ogg"/>
+      <source src="http://quatramaran.ens.fr/~defeo/irene-loic-low.ogg"/>
+      <source src="irene-loic.ogg"/>
     </video>
     
-    <div>
+    <div id="playlist">
       <ol>
 	<li><a href="#inquisition">Inquisition: début.</a></li>
 	<li><a href="#pendules">Inquisition: fin. L'atelier de Galilée: début.</a></li>
@@ -60,6 +72,7 @@
       <button><span></span>&nbsp; ou appuyez sur entrée.</button>
     </div>
 
-<p><a href="https://github.com/defeo/irene-loic/blob/master/Galil%C3%A9e-proces-dialogue.md">Le texte de la pièce.</a></p>
+    <div id="text">
+    </div>
   </body>
 </html>

@@ -1,3 +1,5 @@
+[Le tribunal de l'inquisition. Un gésuite, et deux astronomes dans la salle.]
+
 **Simplicius l'Inquisiteur** - Mes très chers frères, mes très chères soeurs. Nous sommes ici pour instruire le procès en hérésie de deux individus hérétiques qui ont hérétiquement offensé  la  Sainte  Eglise  en  suivant  les  théories  hérétiques  de  l'infâme  hérétique Copernic, suivant lesquelles la Terre ne serait pas au centre du monde. Nous allons donc examiner ces théories hérétiques. En toute justice et objectivité, bien sûr. Premier accusé, levez-vous. Nom ?
 
 **Galilée** - Galileo Galilei.
