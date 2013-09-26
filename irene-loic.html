@@ -1,6 +1,7 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <title>Pièce pour le mariage d'Irène et Loïc</title>
     <script src="popcorn.min.js"></script>
     <script src="jquery.min.js"></script>
     <script src="Markdown.Converter.js"></script>
@@ -10,40 +11,51 @@
       a {
         text-decoration: none;
         color: blue;
-        margin-left: 0.9em;
       }
-      a:hover { text-decoration: underline }
-      .current {
-        color: red;
-        margin-left: 0;
+      @media screen {
+	a:hover { text-decoration: underline }
+	.current {
+	  color: red;
+	  margin-left: 0;
+	}
+	body.playing .current:before,
+	body:not(.playing) button span:before
+	{ content: "▸ " }
+	body:not(.playing) .current:before,
+	body.playing button span:before
+	{ content: "❙❙ " }
+	video, #playlist {
+	  display: inline-block;
+	  margin: 1em;
+	  vertical-align: top;
+	}
+	ol li { padding: 0.3ex 0 }
+	ol a { margin-left: 0.9em }
+	button {
+	  display: block;
+	  padding: 0.5ex;
+	  margin: auto;
+	}
+	#text {
+	  height: 20em;
+	  overflow: auto;
+	  width: 90%;
+	  margin: auto;
+	  box-shadow: 0 0 4px 4px #ccc;
+	  padding: 0.3ex;
+	}
+	body.playing #text {
+	  color: #ccc;
+	}
+        #print {
+          width: 90%;
+          margin: 4px auto;
+          text-align: right;
+        }
       }
-      body.playing .current:before,
-      body:not(.playing) button span:before
-      { content: "▸ " }
-      body:not(.playing) .current:before,
-      body.playing button span:before
-      { content: "❙❙ " }
-      video, #playlist {
-        display: inline-block;
-        margin: 1em;
-        vertical-align: top;
-      }
-      ol li { padding: 0.3ex 0 }
-      button {
-        display: block;
-        padding: 0.5ex;
-        margin: auto;
-      }
-      #text {
-        height: 20em;
-        overflow: auto;
-        width: 90%;
-        margin: auto;
-        box-shadow: 0 0 4px 4px #ccc;
-        padding: 0.3ex;
-      }
-      body.playing #text {
-        color: #ccc;
+
+      @media print {
+        print, video, #playlist, button { display: none }
       }
     </style>
   </head>
@@ -72,6 +84,7 @@
       <button><span></span>&nbsp; ou appuyez sur entrée.</button>
     </div>
 
+    <p id="print"><a href="javascript:window.print()">imprimer le texte</a></p>
     <div id="text">
     </div>
   </body>
