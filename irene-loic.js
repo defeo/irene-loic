@@ -29,27 +29,25 @@ $(function() {
 
     var pop = Popcorn('#video');
 
-    function play(cue) {
-	pop.play(cue);
-    }
+    // If a hash is present, skip to it
+    pop.on('loadeddata', function() {
+	if (window.location.hash in cues) {
+	    pop.pause(cues[window.location.hash]);
+	}
+    });
 
-    // Seek at a cue in playlist
-    function seek(hash) {
-	if (!hash) 
-            hash = window.location.hash;
-        if (hash in cues && cues[hash] >= 0)
-            play(cues[hash]);
-    }
-    // On hash change or click
-    $(window).on('hashchange', seek);
+    // On click, seek at a cue in playlist
     $('a').on('click', function() {
-	seek($(this).attr('href'));
-	$(this).blur();
+	var hash = $(this).attr('href');
+        if (hash in cues && cues[hash] >= 0) {
+            pop.play(cues[hash]);
+	    $(this).blur();
+	}
     });
 
     // Play/pause
     function toggle() {
-	if (pop.paused()) play();
+	if (pop.paused()) pop.play();
 	else pop.pause();
     }
     // on button click or space/enter
@@ -86,22 +84,32 @@ $(function() {
 	return hash;
     }
     
+    function updateText() {
+	$('body').removeClass('playing');
+	var tp = $('#text>p').removeClass('current');
+	var hash = currentHash();
+
+	if (!pop.paused()) {
+	    $('body').addClass('playing');
+	    if (hash) {
+		tp.slice(bookmarks[hash], bookmarks[hash]+1)
+		    .addClass('current');
+	    }
+	}
+
+	// scroll text
+	if (hash) {
+	    $('#text').scrollTop(
+		tp.slice(bookmarks[hash], bookmarks[hash]+1)
+		    .offset().top - $('#text>p').first().offset().top);
+	}
+    }
+
     pop
     // Modify playlist on play/pause
-	.on('playing', function(e) {
-	    $('body').addClass('playing');
-	    // scroll text
-	    var hash = currentHash();
-	    $($('#text>p')
-	      .removeClass('current')
-	      .get(bookmarks[hash]))
-		.addClass('current')
-		.get(0).scrollIntoView();
-	})
-	.on('pause', function() {
-	    $('body').removeClass('playing');		
-	    $('#text>p').removeClass('current');
-	})
+	.on('playing', updateText)
+	.on('pause', updateText)
+	.on('seeked', updateText)
     // On time change, look for the closest cue update playlist
 	.on('timeupdate', function() {
 	    var hash = currentHash();
