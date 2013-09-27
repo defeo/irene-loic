@@ -1,4 +1,4 @@
-[Le tribunal de l'inquisition. Un gésuite, et deux astronomes dans la salle.]
+[Le tribunal de l'inquisition. Un jésuite, et deux astronomes dans la salle.]
 
 **L'Inquisiteur** - Mes très chers frères, mes très chères soeurs. Nous sommes ici pour instruire le procès en hérésie de deux individus hérétiques qui ont hérétiquement offensé  la  Sainte  Eglise  en  suivant  les  théories  hérétiques  de  l'infâme  hérétique Copernic, suivant lesquelles la Terre ne serait pas au centre du monde. Nous allons donc examiner ces théories hérétiques. En toute justice et objectivité, bien sûr. Premier accusé, levez-vous. Nom ?
 
@@ -174,7 +174,7 @@
 
 **Kepler** - Ooooh, regardez ces planètes. Ce sont les géantes gazeuses ! Admirez leurs anneaux, Galilée !
 
-**Jupiter** - Géant gazeux vous même, espèce de malotru.
+**Saturne** - Géant gazeux vous même, espèce de malotru.
 
 **Cyrano** - ...Ahem... Veuillez excuser mes passagers, Madame. C'est la première fois qu'ils voyagent dans l'éther.
 
