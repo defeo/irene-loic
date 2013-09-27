@@ -47,23 +47,31 @@
 	#text {
 	  height: 20em;
 	  overflow: auto;
-	  width: 90%;
-	  margin: auto;
+	  width: 80%;
 	  box-shadow: 0 0 4px 4px #ccc;
 	  padding: 0.3ex;
-	}
+          display: inline-block;
+          vertical-align: top;
+        }
+        #speak {
+          width: 19%;
+          display: inline-block;
+          vertical-align: top;
+        }
+        #characters { list-style-type: none }
+        #characters.notspeaking { color: #ccc }
 	body.playing #text {
 	  color: #ccc;
 	}
         #print {
-          width: 90%;
-          margin: 4px auto;
+          width: 80%;
+          margin: 4px 0;
           text-align: right;
         }
       }
 
       @media print {
-        #print, #video-container, #playlist { display: none }
+        #print, #video-container, #playlist, #speak { display: none }
       }
     </style>
   </head>
@@ -96,7 +104,11 @@
     </div>
 
     <p id="print"><a href="javascript:window.print()">imprimer le texte</a></p>
-    <div id="text">
+    <div id="text"></div>
+    <div id="speak">
+      <p><input id="dospeak" type="checkbox"/>
+	Jouer les dialogues</p>
+      <ul id="characters" class="notspeaking"></ul>
     </div>
   </body>
 </html>
