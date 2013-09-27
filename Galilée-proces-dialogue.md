@@ -1,10 +1,10 @@
 [Le tribunal de l'inquisition. Un gésuite, et deux astronomes dans la salle.]
 
-**Simplicius l'Inquisiteur** - Mes très chers frères, mes très chères soeurs. Nous sommes ici pour instruire le procès en hérésie de deux individus hérétiques qui ont hérétiquement offensé  la  Sainte  Eglise  en  suivant  les  théories  hérétiques  de  l'infâme  hérétique Copernic, suivant lesquelles la Terre ne serait pas au centre du monde. Nous allons donc examiner ces théories hérétiques. En toute justice et objectivité, bien sûr. Premier accusé, levez-vous. Nom ?
+**L'Inquisiteur** - Mes très chers frères, mes très chères soeurs. Nous sommes ici pour instruire le procès en hérésie de deux individus hérétiques qui ont hérétiquement offensé  la  Sainte  Eglise  en  suivant  les  théories  hérétiques  de  l'infâme  hérétique Copernic, suivant lesquelles la Terre ne serait pas au centre du monde. Nous allons donc examiner ces théories hérétiques. En toute justice et objectivité, bien sûr. Premier accusé, levez-vous. Nom ?
 
 **Galilée** - Galileo Galilei.
 
-**Simplicius l'Inqusiiteur** - Nationalité ?
+**L'Inquisiteur** - Nationalité ?
 
 **Galilée** - Italienne.
 
@@ -34,7 +34,7 @@
 
 **Kepler** - Et quant à moi, j'ai énoncé la loi suivante : "Deux corps voisins et hors de la sphère d'attraction d'un troisième corps s'attirent en raison directe de leur masse". Et par ailleurs, toujours concernant les planètes, je vous signale que le carré de la période est proportionnel au cube du demi-grand axe de l'ellipse. Ce n'est pas une preuve, ça ? Hein ?
 
-[Simplicius et Galilée s'échangent des regards d'incompréhension.]
+[L'Inquisiteur et Galilée s'échangent des regards d'incompréhension.]
 
 **L'Inquisiteur** -  Certainement  non.  La  vérité  catholique,  et  les  principes d'Aristote...
 
@@ -48,7 +48,7 @@
 
 **Galilée** - Avec un foyer au centre de la Terre !
 
-**L'Inquisiteur** Monsieur Galilée, à propos de foyer... vous souvenez-vous de Giordano Bruno ?
+**L'Inquisiteur** Monsieur Galilée, à propos de foyer... vous souvenez-vous de Giordano Bruno ?
 
 **Galilée** - Je ne l'ai pas connu personnellement, mais il m'a été chaudement recommandé par le cardinal Bellarmine...
 
@@ -76,7 +76,7 @@
 
 **L'Inquisiteur** - Ah, non, on ne va pas recommencer ! Le tribunal de la Sainte Inquisition a toujours raison ! Jurez solennellement sur cette sainte écriture que vous allez abandonner vos observations astronomiques. [tend la bible à Galilée]
 
-**Galilée [en posant une main sur la bible, les doigts croisés dans le dos]** - Eh bien, je le jure. Venez, mon bon Kepler. Allons dans mon atelier faire des expériences... terrestres.
+**Galilée** *[en posant une main sur la bible, les doigts croisés dans le dos]* - Eh bien, je le jure. Venez, mon bon Kepler. Allons dans mon atelier faire des expériences... terrestres.
 
 [Tout le monde quitte la scène. Simplicio le disciple s'installe avec ses pendules (yoyos) et commence à les faire osciller.]
 
@@ -88,7 +88,7 @@
 
 **Galilée** - Bon sang ! Il est sonné celui-là ! Ne prêtez pas attention, Kepler. Venez, venez, observez ces pendules.
 
-[Simplicius fait osciller ses pendules]
+[Simplicio fait osciller ses pendules]
 
 **Galilée** - Avez vous remarqué comment, lorsque vous laissez tomber le poids, celui-ci, en déclinant, remonte pour dépasser la perpendiculaire d'un angle à peine inférieur à sa position première ?
 
@@ -124,7 +124,7 @@
 
 **Galilée** - Eh bien...
 
-**Kepler [en battant les mains]** - Ach ! Ja ! Ja !
+**Kepler** *[en battant les mains]* - Ach ! Ja ! Ja !
 
 **Cyrano** - Je suis l'homme de la situation. J'ai une grande connaissance des techniques et des vitesses de libération. J'ai moi même déjà visité la lune et le soleil, et ouvert un commerce de foie gras du Sud-Ouest sur Vénus.
 
@@ -144,13 +144,13 @@
 
 [Les trois chevauchent chacun son boulet]
 
-**Cyrano** - Mesdames et Monsieurs ! Veuillez prêter attention aux consignes de sécurité, même si vous êtes un artilleur averti. Cet appareil est muni de 4 sorties de secours : une par devant, une par derrière, une par les côtés et une par le bas. Veuillez repérer la plus proche de vous. En cas de dépressurisation, fiez vous aux théories de Galilée et attendez que l'oxygène remplisse le vide. Dans l'éventualité improbable d'un amerrissage, il n'y a pas de gilet de sauvetage ; de toutes façons il est encore préférable de périr par hypothermie que d'être pêché par un bateau de pirates. Veuillez maintenant boucler votre centure de sécurité. AirBergerac vous souhaite un bon voyage.
+**Cyrano** - Mesdames et Monsieurs ! Veuillez prêter attention aux consignes de sécurité, même si vous êtes un artilleur averti. Cet appareil est muni de 4 sorties de secours : une par devant, une par derrière, une par les côtés et une par le bas. Veuillez repérer la plus proche de vous. En cas de dépressurisation, fiez vous aux théories de Galilée et attendez que l'oxygène remplisse le vide. Dans l'éventualité improbable d'un amerrissage, il n'y a pas de gilet de sauvetage ; de toutes façons il est encore préférable de périr par hypothermie que d'être pêché par un bateau de pirates. Veuillez maintenant boucler votre centure de sécurité. AirBergerac vous souhaite un bon voyage.
 
 **Galilée** Mais qu'est-ce qu'il raconte ?
 
 **Kepler** Je crois qu'il a un coup dans le nez.
 
-[Un countdouwn s'affiche à l'écran. Booom !]
+[Un countdown s'affiche à l'écran. Booom !]
 
 **Galilée** - Simplicio, aie soin de l'atelier pendant mon absenceeeeee !
 
@@ -178,7 +178,7 @@
 
 **Cyrano** - ...Ahem... Veuillez excuser mes passagers, Madame. C'est la première fois qu'ils voyagent dans l'éther.
 
-**Kepler (*chuchotant à Galilée*)** - Galilée, psst, Galilée ! Voyez-vous ? Voici Jupiter, et Saturne. Mais... ? Qui sont les deux autres ?
+**Kepler** *(chuchotant à Galilée)* - Galilée, psst, Galilée ! Voyez-vous ? Voici Jupiter, et Saturne. Mais... ? Qui sont les deux autres ?
 
 **Galilée** - Des planètes inconnues ! Je croyais bien en avoir brièvement observé une récemment. Observons, mon bon Kepler, observons !
 
@@ -252,15 +252,15 @@
 
 **Galilée** - Oh, rien. En quelques mots, nous avons fait un long voyage, et nous avons failli finir brûlés.
 
-**L'inquisiteur** - Ca ne m'étonne pas. Eh bien sachez que vous êtes au nouveau Monde, dans les colonies portugaises. Il y a une nouvelle ville qui est en train de se construire ici, autour d'un couvent de jésuite construit en l'honneur de Saint-Paul. Sao Paulo, comme disent les Portugais dans leur étrange langage. J'ai obtenu d'être envoyé ici pour me reposer après ce pénible procès en buvant des caipirinhas. Mais non, rien à faire ! Il y a de ces infâmes astronomes hérétiques partout ! On en attend encore deux qui doivent arriver d'Europe ! Tenez, les voilà ! Hérétiques ! Hérétiques ! *(Il se lance sur Irène et Loïc. Les trois autres le retiennent)*
+**L'Inquisiteur** - Ca ne m'étonne pas. Eh bien sachez que vous êtes au nouveau Monde, dans les colonies portugaises. Il y a une nouvelle ville qui est en train de se construire ici, autour d'un couvent de jésuite construit en l'honneur de Saint-Paul. Sao Paulo, comme disent les Portugais dans leur étrange langage. J'ai obtenu d'être envoyé ici pour me reposer après ce pénible procès en buvant des caipirinhas. Mais non, rien à faire ! Il y a de ces infâmes astronomes hérétiques partout ! On en attend encore deux qui doivent arriver d'Europe ! Tenez, les voilà ! Hérétiques ! Hérétiques ! *(Il se lance sur Irène et Loïc. Les trois autres le retiennent)*
 
 **Galilée** Monsieur le Grand Inquisiteur, calmez-vous. *(Il lui donne une capirinha)* 
 
-**L'inquisiteur** Mais...
+**L'Inquisiteur** Mais...
 
 **Kepler** C'est le nouveau Monde, ici. Laissez vos vieilles bêtises !
 
-**L'inquisiteur** Mais...
+**L'Inquisiteur** Mais...
 
 **Galilée** Venez, venez, Madame, Monsieur. Allons faire quelques observations astronomiques. Peut-être avez-vous lu mon dialogue sur les deux principaux systèmes du monde ?
 
