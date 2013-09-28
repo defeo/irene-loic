@@ -46,7 +46,7 @@
 
 **Kepler** - Et la nouvelle étoile que j'ai découverte ? Et mon calcul des orbites elliptiques des planètes ?
 
-**Galilée** - Avec un foyer au centre de la Terre !
+**Galilée** - Avec un foyer au centre du Soleil !
 
 **L'Inquisiteur** Monsieur Galilée, à propos de foyer... vous souvenez-vous de Giordano Bruno ?
 
@@ -110,7 +110,7 @@
 
 **Galilée** - Que nenni ! C'est certainement l'influence de la Lune dans son quartier premier !
 
-[numéro de jonglage massues] [Daft Punk, ?]
+[numéro de jonglage massues]
 
 **Cyrano** - Ah ! Voler vers les astres. Quelle plaisante idée ! Mes bien chers astronomes, ce n'est pas chose aisée !
 
@@ -130,9 +130,11 @@
 
 **Galilée** - Et comment comptez-vous vous envoler ? En vous aspergeant de rosée ?
 
-**Cyrano** - Déjà essayé. Pas très pratique. J'ai aussi essayé la moelle de bœuf, mais je crains que l'odeur ne convienne pas à vos nobles personnes. Non ! J'ai le plaisir de vous présenter la méthode Munchausen : le boulet de canon !
+**Cyrano** - Déjà essayé. Pas très pratique. J'ai aussi essayé la moelle de bœuf, mais je crains que l'odeur ne convienne pas à vos nobles personnes. Non ! J'ai le plaisir de vous présenter la méthode Munchausen !
 
-[On lance/fait rouler sur scène trois ballons sauteurs, comme [ceux-ci](http://www.decathlon.fr/ballon-sauteur-60-cm-id_8186110.html#), ou peut-être [ceux-là](http://www.netjuggler.net/selection/push-balls.html).]
+[On lance/fait rouler sur scène trois ballons d'exercice, comme [ceux-ci](http://www.decathlon.fr/gym-ball-65-cm-domyos-id_8212658.html#). Galilée et Kepler se regardent incrédules.]
+
+**Kepler** - Un boulet de canon ?!
 
 **Cyrano** - Entre nous on l'appelle tout simplement le *Boing* !
 
@@ -262,10 +264,14 @@
 
 **L'Inquisiteur** Mais...
 
-**Galilée** Venez, venez, Madame, Monsieur. Allons faire quelques observations astronomiques. Peut-être avez-vous lu mon dialogue sur les deux principaux systèmes du monde ?
+**Galilée** Venez, venez, Madame, Monsieur. Allons faire quelques observations astronomiques.
+
+[Amène Irène et Loïc sur scène. Tous les jongleurs reviennent sur scène et jonglent pour les mariés]
+
+**Galiliée** Peut-être avez-vous lu mon dialogue sur les deux principaux systèmes du monde ?
 
 **Kepler** Et quant à moi, je ne sais pas si vous l'avez lu, mais j'ai écrit un livre de science-fiction qui...
 
 **Cyrano** Au pays de la samba et du carnaval, Cessons de disputer, messieurs, et en deux mots, Comme un vol de gerfauts hors du charnier natal, Envolons-nous pour découvrir Eldorado ! La gravité sera notre seul handicap ! Faisant fi des frimas et de la canicule, D'une nouvelle aventure prenons le cap ! Que dis-je, c'est un cap, c'est une péninsule ! *(Il finit de profil.)*
 
-[fin, saluts]
+[fin, saluts, générique]
