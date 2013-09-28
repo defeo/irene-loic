@@ -19,10 +19,10 @@
 	  margin-left: 0;
 	}
 	body.playing .current:before,
-	body:not(.playing) button span:before
+	body:not(.playing) #playpause span:before
 	{ content: "▸ " }
 	body:not(.playing) .current:before,
-	body.playing button span:before
+	body.playing #playpause span:before
 	{ content: "❙❙ " }
 	#video-container, #playlist {
 	  display: inline-block;
@@ -39,11 +39,7 @@
         }
 	ol li { padding: 0.3ex 0 }
 	ol a { margin-left: 0.9em }
-	button {
-	  display: block;
-	  padding: 0.5ex;
-	  margin: auto;
-	}
+	button { padding: 0.5ex	}
 	#text {
 	  height: 20em;
 	  overflow: auto;
@@ -78,8 +74,8 @@
   <body>
     <div id="video-container">
       <video height="100%" width="100%" id="video" controls>
-	<source src="irene-loic-low.ogg"/>
 	<source src="irene-loic.ogg"/>
+	<source src="irene-loic-low.ogg"/>
 	<source src="http://quatramaran.ens.fr/~defeo/irene-loic-low.ogg"/>
       </video>
       <p><a href="#">Détacher la vidéo.</a></p>
@@ -101,7 +97,8 @@
 	<li><a href="#generique">Générique de fin.</a></li>
       </ol>
       
-      <button><span></span>&nbsp; ou appuyez sur entrée.</button>
+      <button id="playpause"><span></span>&nbsp; ou appuyez sur entrée</button>
+      <button id="fadeout">▸▸ ou appuyez sur &gt;</button>
     </div>
 
     <p id="print"><a href="javascript:window.print()">imprimer le texte</a></p>

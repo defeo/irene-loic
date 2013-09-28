@@ -67,14 +67,48 @@ $(function() {
 	if (pop.paused()) pop.play();
 	else pop.pause();
     }
-    // on button click or space/enter
-    $('button').on('click', function() {
+    $('#playpause').on('click', function() {
 	$(this).blur();
 	toggle();
     });
+
+    // Fadeout in 40*200ms
+    var fading = false;
+    function fadeout() {
+	var fadestep = function(step) {
+	    if (!pop.paused()) {
+		pop.volume(vol/(40-step));
+		if (step == 0) {
+		    pop.pause(cues[hash]-1);
+		}
+		setTimeout(fadestep, 200, step-1);
+	    } else {
+		pop.volume(vol);
+		fading = false;
+	    }
+	};
+
+	var i = hashes.indexOf(currentHash());
+	if (i >=0 && i < hashes.length && !fading) {
+	    fading = true;
+	    var hash = hashes[i+1];
+	    var vol = pop.volume();
+	    fadestep(39);
+	}
+    }
+    $('#fadeout').on('click', function() {
+	$(this).blur();
+	fadeout();
+    });
+
+    // Keyboard events
     $(document).on('keydown', function(e) {
 	if (e.which == 13) {
 	    toggle();
+	    e.preventDefault();
+	}
+	if (e.which == 190) {
+	    fadeout();
 	    e.preventDefault();
 	}
     });
