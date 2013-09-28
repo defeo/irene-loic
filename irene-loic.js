@@ -10,21 +10,23 @@ $(function() {
 	'#cometes',
 	'#rock',
 	'#supernovae',
-	'#retour'
+	'#retour',
+	'#generique'
     ];
 
     var cues = {
 	'#inquisition': 1,
 	'#pendules': 30,
 	'#simplicio': 74,
-	'#observation': -1,
-	'#decollage': 226,
-	'#planetes': -1,
-	'#satellites': -1,
-	'#cometes': -1,
-	'#rock': -1,
-	'#supernovae': -1,
-	'#retour': -1
+	'#observation': 155,
+	'#decollage': 403,
+	'#planetes': 499,
+	'#satellites': 833,
+	'#cometes': 1227.5,
+	'#rock': 1322,
+	'#supernovae': 1427,
+	'#retour': 1573,
+	'#generique': 1610
     };
 
     var bookmarks = {
@@ -32,13 +34,14 @@ $(function() {
 	'#pendules': 40,
 	'#simplicio': 49,
 	'#observation': 56,
-	'#decollage': 76,
+	'#decollage': 77,
 	'#planetes': 95,
-	'#satellites': 107,
-	'#cometes': 112,
+	'#satellites': 100,
+	'#cometes': 109,
 	'#rock': 114,
-	'#supernovae': 134,
-	'#retour': 134
+	'#supernovae': 116,
+	'#retour': 118,
+	'#generique': 138
     };
 
     var pop = Popcorn('#video');
