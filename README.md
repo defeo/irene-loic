@@ -3,12 +3,12 @@
 pièce présentée à l'occasion du mariage d'Irène et Loïc
 
 
-# Le texte
+## Le texte
 
 Le texte de la pièce est dans le fichier [Galilée-proces-dialogue.md](blob/gh-pages/Galilée-proces-dialogue.md).
 
 
-# Le théatre virtuel
+## Le théatre virtuel
 
 Une interface interactive permettant de jouer entièrement la pièce est
 disponible à l'adresse <http://defeo.lu/irene-loic>.
