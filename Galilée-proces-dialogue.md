@@ -275,3 +275,11 @@
 **Cyrano** Au pays de la samba et du carnaval, Cessons de disputer, messieurs, et en deux mots, Comme un vol de gerfauts hors du charnier natal, Envolons-nous pour découvrir Eldorado ! La gravité sera notre seul handicap ! Faisant fi des frimas et de la canicule, D'une nouvelle aventure prenons le cap ! Que dis-je, c'est un cap, c'est une péninsule ! *(Il finit de profil.)*
 
 [fin, saluts, générique]
+
+©2013 Rachel Deyts, Luca De Feo and Jérôme Plût.
+
+Cette oeuvre est sous licence CC-BY-SA 3.0
+(<http://creativecommons.org/licenses/by-sa/3.0/deed.fr>).
+
+Cette œuvre contient un extrait de l'article *Pendule pesant* de
+Wikipédia en français (<http://fr.wikipedia.org/wiki/Pendule_pesant>).
