@@ -1,4 +1,4 @@
-# L'astronomie, c'est dangéreux... et ça finit toujours au Brésil
+# L'astronomie, c'est dangereux... et ça finit toujours au Brésil
 
 pièce présentée à l'occasion du mariage d'Irène et Loïc
 
