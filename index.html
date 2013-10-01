@@ -77,10 +77,19 @@
           margin: 4px 0;
           text-align: right;
         }
+        footer {
+          border-top: solid thin gray;
+          margin-top: 20px;
+        }
+        footer ul { list-style-type: none }
+        footer li {
+          display: inline-block;
+          margin: 0 2ex;
+        }
       }
 
       @media print {
-        #print, #video-container, #playlist, #speak { display: none }
+        #print, #video-container, #playlist, #speak, footer { display: none }
       }
     </style>
   </head>
@@ -123,5 +132,15 @@
 	Jouer les dialogues</p>
       <ul id="characters" class="notspeaking"></ul>
     </div>
+
+    <footer>
+      <ul>
+	<li><a href="https://github.com/defeo/irene-loic">Code source</a></li>
+	<li><a href="https://github.com/defeo/irene-loic/archive/gh-pages.zip">Télécharger
+	    l'application</a></li>
+	<li><a href="https://quatramaran.ens.fr/~defeo/irene-loic/irene-loic.ogg">Vidéo HD</a></li>
+	<li><a href="https://quatramaran.ens.fr/~defeo/irene-loic/irene-loic-low.ogg">Vidéo LD</a></li>
+      </ul>
+    </footer>
   </body>
 </html>
