@@ -46,11 +46,14 @@ $(function() {
 
     var pop = Popcorn('#video');
 
-    // If a hash is present, skip to it
     pop.on('loadeddata', function() {
+	// If a hash is present, skip to it
 	if (window.location.hash in cues) {
 	    pop.pause(cues[window.location.hash]);
 	}
+	// Check current source
+	$('#video-source ~ span input[value="' + pop.media.currentSrc + '"]')
+	    .prop('checked', true);
     });
 
     // On click, seek at a cue in playlist
@@ -263,7 +266,7 @@ $(function() {
 	});
 
     // Move video to a new window
-    $('#video-container a').on('click', function() {
+    $('#video-detach').on('click', function() {
 	if (!$('#video-container').hasClass('detached')) {
 	    $('#video-container').addClass('detached');
 
@@ -291,5 +294,20 @@ $(function() {
 	    });
 	}
 	return false;
+    });
+
+    $('#video-source').on('click', function() {
+	$('#video-source').toggleClass('show');
+    });
+    
+    
+    $('#video source').each(function (i, s) {
+	$('<input type="radio" name="video-source" id="vsrc-' + i +
+	  '"><label for="vsrc-' + i + '">' + s.src + ' (' + s.title + ')</label><br>')
+	    .attr('value', s.src)
+	    .appendTo('#video-source ~ span')
+	    .on('change', function() {
+		pop.media.src = this.value;
+	    });
     });
 });

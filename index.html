@@ -34,8 +34,21 @@
           height: 288px;
           width: 384px;
         }
-        #video-container.detached {
+        #video-container.detached #video-detach {
           visibility: hidden;
+        }
+        #video-container>p { position: relative }
+        #video-source.show:after { content: "↑" }
+        #video-source:not(.show):after { content: "↓" }
+        #video-source:not(.show) ~ span { display: none }
+        #video-source ~ span {
+          position: absolute;
+          top: 20pt;
+          left: 0;
+          border: solid thin black;
+          background-color: white;
+          width: auto;
+          text-align: left;
         }
 	ol li { padding: 0.3ex 0 }
 	ol a { margin-left: 0.9em }
@@ -74,11 +87,13 @@
   <body>
     <div id="video-container">
       <video height="100%" width="100%" id="video" controls>
-	<source src="irene-loic.ogg"/>
-	<source src="irene-loic-low.ogg"/>
-	<source src="http://quatramaran.ens.fr/~defeo/irene-loic-low.ogg"/>
+	<source src="irene-loic.ogg" title="HD" />
+	<source src="irene-loic-low.ogg" title="LD" />
+	<source src="https://quatramaran.ens.fr/~defeo/irene-loic/irene-loic-low.ogg" title="LD" />
+	<source src="https://quatramaran.ens.fr/~defeo/irene-loic/irene-loic.ogg" title="HD" />
       </video>
-      <p><a href="#">Détacher la vidéo.</a></p>
+      <p><button id="video-detach">Détacher la vidéo</button>
+	<button id="video-source">Choisir source</button><span></span></p>
     </div>
     
     <div id="playlist">
